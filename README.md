@@ -1,2 +1,2 @@
 # Industry-Review-Project
-A project analyzing the financial performance and key profitability drivers within the accommodation and food service industry, identifying trends in revenue, cost structures, and investment.
+A project analyzing the financial performance and key profitability drivers within the accommodation and food service industry, identifying trends in revenue, cost structures, and investment. This is done by assessing the financial risks and opportunities present in the sector, evaluating factors such as market volatility, regulatory changes, and emerging business models impacting financial performance.
